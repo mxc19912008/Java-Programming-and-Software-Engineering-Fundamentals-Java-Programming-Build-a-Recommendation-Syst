@@ -1,11 +1,13 @@
 # Java Programming and Software Engineering Fundamentals Java Programming: Build a Recommendation System
 It is the fifth course of this series, the capstone project.
-This is the Website for the Recommendation System: http://www.dukelearntoprogram.com/capstone/recommender.php?id=ywvOEbSJo9aFU1
-
+This is the Website for the Recommendation System: <a href="http://www.dukelearntoprogram.com/capstone/recommender.php?id=ywvOEbSJo9aFU1">HERE</a>.
+<img src="https://github.com/mxc19912008/readme_pics/raw/master/image/Recommedation 1.png" width="700"> 
+<P></P>
+<img src="https://github.com/mxc19912008/readme_pics/raw/master/image/Recommedation 2.png" width="700">
 
 About this course: Ever wonder how Netflix decides what movies to recommend for you? Or how Amazon recommends books? We can get a feel for how it works by building a simplified recommender of our own!
 
-In this capstone, you will show off your problem solving and Java programming skills by creating recommender systems. You will work with data for movies, including ratings, but the principles involved can easily be adapted to books, restaurants, and more. You will write a program to answer questions about the data, including which items should be recommended to a user based on their ratings of several movies. Given input files on users ratings and movie titles, you will be able to:
+<b>In this capstone, I recommended movies based on the similarity of ratings the user give and that of professional raters on IDMB, which is to say, you are more likely to share taste with the raters who rate movies like you do. Then what movies recommeded to you are what those rates think very highly of.</b>
 
 1. Read in and parse data into lists and maps;
 2. Calculate average ratings;
