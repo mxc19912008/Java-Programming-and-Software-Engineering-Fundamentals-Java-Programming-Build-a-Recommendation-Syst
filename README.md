@@ -3,7 +3,7 @@ It is the fifth course of this series, the capstone project.
 This is the Website for the Recommendation System: <a href="http://www.dukelearntoprogram.com/capstone/recommender.php?id=ywvOEbSJo9aFU1">HERE</a>.
 <img src="https://github.com/mxc19912008/readme_pics/raw/master/image/Recommedation 1.png" width="700"> 
 <P></P>
-<img src="https://github.com/mxc19912008/readme_pics/raw/master/image/Recommendation 2.png" width="700">
+<img src="https://github.com/mxc19912008/readme_pics/raw/master/image/Recommendation2.png" width="700">
 
 About this course: Ever wonder how Netflix decides what movies to recommend for you? Or how Amazon recommends books? We can get a feel for how it works by building a simplified recommender of our own!
 
